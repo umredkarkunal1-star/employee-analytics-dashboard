@@ -54,12 +54,6 @@ The dataset contains employee information such as:
 
 ---
 
-## 📷 Dashboard Preview
-
-<img src="employee_dashboard.png" width="100%">
-
----
-
 ## 🚀 How to Run
 
 Clone the repository
